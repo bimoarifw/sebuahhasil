@@ -15,3 +15,6 @@ Proyek latihan ini saya mulai pada Sabtu, 9 Juli 2022.
 ## V4
 - Membuat search engine
 - Tidak responsive
+## V5
+- Membuat Linktree dengan UI yang modern
+- Insya Allah responsive
